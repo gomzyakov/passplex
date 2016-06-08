@@ -3,7 +3,7 @@
 Passplex (iOS)
 ==============
 
-![Passplex Passwords Manager iOS App](https://github.com/gomzyakov/passplex-ios/blob/master/mock-2-iphone5c-green.png "Passplex Passwords Manager iOS App")
+![Passplex Passwords Manager iOS App](https://github.com/gomzyakov/passplex-ios/blob/master/mock-3-iphone5c-green.png "Passplex Passwords Manager iOS App")
 
 Passplex is a secure and easy-to-use app for store and manage your login credentials. 
 
