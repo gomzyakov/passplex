@@ -1,0 +1,31 @@
+/**
+
+ *** App Descritpion ***
+
+ Passplex is een veilige en gebruiksvriendelijke app om logingegevens te bewaren en te beheren.
+ 
+ Tegenwoordig moeten we steeds meer wachtwoorden onthouden, en Passplex biedt een veilige, makkelijke manier om uw meest gevoelige gegevens te bewaren. Met Passplex hoeft u slechts één wachtwoord te onthouden.
+ 
+ KENMERKEN:
+ - Eenvoudige, mooie en uiterst toegankelijke gebruikersinterface.
+ - Items zijn snel toe te voegen, te bewerken en te verwijderen.
+ - Via "Favorieten" beschikt u meteen over referenties voor uw meest gebruikte wachtwoorden.
+ - Complete zoekfunctie om snel te vinden wat u zoekt.
+ - Met de wachtwoordgenerator stelt u sterke, veilige wachtwoorden samen.
+ - Kopieer gebruikersnamen en wachtwoorden vanuit Passplex naar andere apps.
+ - Exportmogelijkheid voor e-mail.
+ 
+ BEVEILIGING:
+ - Uitstekend beveiligd met AES256-versleuteling.
+ - Automatische vergrendeling voor de veiligheid van uw wachtwoorden.
+
+ *** App Keywords ***
+
+ wachtwoord, beheerder, bewaarder, kluis, opslag, portefeuille, geheim, veilig, beveiligen, beschermen, pas, generator, beste
+
+ */
+
+
+/* Localized versions of Info.plist keys */
+
+"CFBundleDisplayName" = "Passplex";

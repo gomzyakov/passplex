@@ -1,0 +1,30 @@
+/**
+
+ *** App Descritpion ***
+
+ Passplex là một ứng dụng bảo mật và dễ sử dụng để lưu trữ và quản lý các chứng từ đăng nhập của bạn.
+ 
+ Ngày nay chúng ta luôn phải nhớ nhiều mật khẩu hơn theo từng ngày. Passplex là một cách dễ dàng và bảo mật để lưu trữ các thông tin nhạy cảm nhất của bạn. Với Passplex, bạn chỉ phải nhớ duy nhất một mật khẩu mà thôi.
+ 
+ TÍNH NĂNG:
+ - Giao diện người dùng đơn giản & đẹp mắt được thiết kế để dễ dàng sử dụng.
+ - Bổ sung, sửa và xóa các đề mục một cách nhanh gọn nhẹ.
+ - Tìm kiếm toàn diện nhanh chóng tìm được thông tin bạn cần.
+ - Trình tự động tạo mật khẩu tạo những mật khẩu bảo mật tốt.
+ - Sao chép tên người dùng và mật khẩu từ Passplex sang các ứng dụng khác.
+ - Xuất thư.
+ 
+ BẢO MẬT:
+ - Bảo mật nghiêm ngặt với mã hóa AES256.
+ - Tự động khóa giữ an toàn cho mật khẩu của bạn.
+
+ *** App Keywords ***
+
+ mật khẩu, quản lý, bảo vệ, kho, lưu giữ, ví, bí mật, an toàn, bảo mật, phòng chống, mã, tạo, tốt nhất
+
+ */
+
+
+/* Localized versions of Info.plist keys */
+
+"CFBundleDisplayName" = "Passplex";

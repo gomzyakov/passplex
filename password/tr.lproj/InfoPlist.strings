@@ -1,0 +1,31 @@
+/**
+
+ *** App Descritpion ***
+
+ Passplex, oturum açma bilgilerinizi saklamanıza ve yönetmenize imkân veren ve kullanımı son derece kolay olan bir güvenlik uygulamasıdır.
+
+ Günümüzde artık daha fazla parolayı hatırlamak zorunda kalıyoruz. Passplex, en değerli bilgilerinizi saklamanın en güvenli ve en kolay yolunu sağlıyor. Passplex ile sadece tek bir parolayı hatırlamanız yeterli.
+
+ ÖZELLİKLER:
+ - Kolay erişebilirlik için tasarlanmış sade ve etkileyici kullanıcı arayüzü.
+ - Hızlı ve kullanışlı ekleme, düzenleme ve silme araçları.
+ - En çok kullandığınız kimlik bilgilerine hızlı erişim için Sık Kullanılanlar özelliği.
+ - İhtiyaç duyduğunuz bilgilere hızlıca erişebilmeniz için kapsamlı arama.
+ - Güçlü ve güvenli parolalar oluşturabilmenize imkân veren otomatik parola üreticisi.
+ - Kullanıcı adlarını ve şifreleri Passplex'den diğer uygulamalara kopyalayabilme.
+ -Posta aktarımı.
+
+ GÜVENLİK:
+ - AES256 şifreleme sayesinde çok daha sıkı güvenlik.
+ - Şifrelerinizi korumak için için otomatik kilit.
+
+ *** App Keywords ***
+
+ parola, yönetici, koruyucu, kasa, depolama, cüzdan, gizli, güvenli, güvenlik, korumak, geçmek, üretici
+
+ */
+
+
+/* Localized versions of Info.plist keys */
+
+"CFBundleDisplayName" = "Passplex";

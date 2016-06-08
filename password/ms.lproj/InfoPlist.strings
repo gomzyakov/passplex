@@ -1,0 +1,31 @@
+/**
+
+ *** App Descritpion ***
+
+ Passplex ialah aplikasi selamat dan mudah digunakan untuk menyimpan dan menguruskan bukti kelayakan daftar masuk anda.
+ 
+ Hari ini kita perlu ingat semakin banyak kata laluan setiap hari. Passplex menyediakan cara selamat dan mudah untuk menyimpan maklumat paling sensitif anda. Dengan passplex, anda cuma perlu ingat satu kata laluan sahaja.
+ 
+ CIRI:
+ - Antara muka pengguna yang mudah & cantik yang direka untuk tahap akses yang tinggi.
+ - Menambah, mengedit dan menghapuskan item dengan cepat & mudah.
+ - Gunakan kegemaran untuk rujukan pantas bukti kelayakan yang paling kerap anda gunakan.
+ - Carian lengkap untuk mencari maklumat yang diperlukan secara pantas.
+ - Penjana kata laluan automatik untuk mencipta kata laluan yang kukuh dan selamat.
+ - Salin nama pengguna dan kata laluan daripada Passplex ke aplikasi lain.
+ - Mengeksport mel.
+ 
+ KESELAMATAN:
+ - Keselamatan ketat dengan enkripsi AES256.
+ - Kunci-auto untuk menyimpan kata laluan anda dengan selamat.
+
+ *** App Keywords ***
+
+ kata laluan, pengurus, penyimpan, peti, storan, dompet, rahsia, selamat, berjaga, lindung, laluan, penjana, terbaik
+
+ */
+
+
+/* Localized versions of Info.plist keys */
+
+"CFBundleDisplayName" = "Passplex";
