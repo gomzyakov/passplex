@@ -1,0 +1,31 @@
+/**
+
+ *** App Descritpion ***
+
+ Passplex er en app, der er sikker og nem at bruge, til opbevaring og administration af dine loginoplysninger.
+ 
+ Nu om dage skal vi huske flere og flere kodeord hver dag. Passplex giver dig en sikker og nem måde at gemme dine mest følsomme oplysninger på. Med Passplex skal du kun huske ét kodeord.
+ 
+ FUNKTIONER:
+ - Simpel & smuk brugergrænseflade som er designet med henblik på tilgængelighed.
+ - Hurtig & simpel tilføjelse, redigering og sletning af punkter.
+ - Brug Foretrukne for hurtig reference af dine mest anvendte oplysninger.
+ - Komplet søgning til hurtigt at finde de oplysninger, du har brug for.
+ - En automatisk kodeordsgenerator til at lave stærke og sikre kodeord med.
+ - Kopiér brugernavne og kodeord fra Passplex til andre apps.
+ - Eksport af mail.
+ 
+ SIKKERHED:
+ - Høj sikkerhed med AES256-kryptering.
+ - Auto-lås for at holde dine kodeord sikrede.
+
+ *** App Keywords ***
+
+ kodeord, manager, holder, boks, opbevaring, tegnebog, hemmelig, pengeskab, beskyt, pas, generator, bedst
+
+ */
+
+
+/* Localized versions of Info.plist keys */
+
+"CFBundleDisplayName" = "Passplex";

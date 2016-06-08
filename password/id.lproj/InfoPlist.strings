@@ -1,0 +1,31 @@
+/**
+
+ *** App Descritpion ***
+
+ Passplex adalah aplikasi aman dan mudah digunakan untuk menyimpan dan mengelola data login Anda.
+ 
+ Di zaman ini kita harus mengingat kata sandi yang semakin banyak tiap harinya. Passplex menyediakan cara aman dan mudah untuk menyimpan informasi Anda yang paling sensitif. Dengan Passplex, Anda hanya perlu mengingat satu kata sandi.
+ 
+ FITUR:
+ - Antarmuka pengguna yang sederhana & indah, dirancang untuk aksesibilitas.
+ - Tambahkan, edit, dan hapus item dengan cepat dan mudah.
+ - Gunakan Favorit untuk referensi cepat tentang data yang paling sering Anda gunakan.
+ - Penelusuran lengkap untuk mencari info yang Anda butuhkan dengan cepat.
+ - Generator kata sandi otomatis untuk membuat kata sandi yang kuat dan aman.
+ - Salin nama pengguna dan kata sandi dari Passplex ke aplikasi lain.
+ - Ekspor email.
+ 
+ KEAMANAN:
+ - Keamanan ketat dengan enkripsi AES256.
+ - Kunci otomatis agar kata sandi Anda selalu aman.
+
+ *** App Keywords ***
+
+ sandi, pengelola, penjaga, pengaman, penyimpanan, dompet, rahasia, aman, melindungi, password, generator, terbaik
+
+ */
+
+
+/* Localized versions of Info.plist keys */
+
+"CFBundleDisplayName" = "Passplex";

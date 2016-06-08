@@ -1,0 +1,31 @@
+/**
+
+ *** App Descritpion ***
+
+ Passplex is a secure and easy-to-use app for storing and managing your login credentials.
+ 
+ These days we have to remember increasingly more passwords every day. Passplex provides a secure, easy way to store your most sensitive information. With Passplex, you just have to remember one password.
+ 
+ FEATURES:
+ - Simple & beautiful user interface that was designed for accessibility.
+ - Fast & simple adding, editing, and deleting items.
+ - Use Favorites for a quick reference of your most-used credentials.
+ - Complete search for quickly finding the info you need.
+ - An automatic password generator to create strong, secure passwords.
+ - Copy usernames and passwords from Passplex to other apps.
+ - Mail exporting.
+ 
+ SECURITY:
+ - Tight security with AES256 encryption.
+ - Auto-lock for keeping your passwords safe.
+
+ *** App Keywords ***
+
+ password, manager, keeper, vault, storage, wallet, secret, safe, secure, protect, pass, generator, best
+
+ */
+
+
+/* Localized versions of Info.plist keys */
+
+"CFBundleDisplayName" = "Passplex";
