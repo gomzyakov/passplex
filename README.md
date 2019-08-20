@@ -1,17 +1,17 @@
-> **Внимание!** Проект написан под iOS 6.0-7.1.2 (iPhone 4-5s) и в настоящее время **не поддерживается**.
+> **Attention!** The project was written under iOS 7 and is currently **not supported**.
 
-Passplex (iOS)
-==============
+# Passplex
 
 ![Passplex Passwords Manager iOS App](https://github.com/gomzyakov/passplex-ios/blob/master/mock-3-iphone5c-green.png "Passplex Passwords Manager iOS App")
 
-Passplex is a secure and easy-to-use app for store and manage your login credentials. 
+Passplex is a secure and easy-to-use iOS-app for store and manage your login credentials. 
+
+## Usecases
 
 We need to remember more and more difference passwords every day. Passplex provides a secure, easy way to store and keep your most sensitive information. Now, you just have to remember only one password.
 
-~~Available in [App Store](https://itunes.apple.com/us/app/passplex/id859950412)~~
+## Features
 
-## FEATURES: 
 - Simple & beautiful user interface designed for accessibility.
 - Fast & simple adding, editing & deleting items.
 - Use Favorites for quick reference of your most-used credentials.
@@ -20,11 +20,16 @@ We need to remember more and more difference passwords every day. Passplex provi
 - Copy usernames and passwords from Passplex to other apps
 - Mail exporting.
 
-## SECURITY: 
+## Security
+
 - Tight security with AES256 encryption.
 - Auto-lock for keep your passwords safe.
 
-## TEAM
+## Team
 
-- [Alexander Gomzyakov](https://github.com/gomzyakov) (developer)
-- [Alexey Nikulin](https://www.facebook.com/alexei.nikulin) (designer)
+- Development: [Alexander Gomzyakov](https://github.com/gomzyakov)
+- Вesign: [Alexey Nikulin](https://www.facebook.com/alexei.nikulin)
+
+## License
+
+The project released under GPL-3.0 license.
